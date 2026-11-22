@@ -4,8 +4,6 @@ Checklist diário para o grupo construir o jogo do zero. Marque `[x]` em cada it
 
 **Legenda:** 🅰 Arthur · 🅱 Bernardo · 🅶 Gabriel · 👥 todos juntos
 
-> Este roteiro foi planejado com ajuda de IA (Claude). Ele explica **o que** fazer e **quais conceitos** usar, mas não traz o código pronto: o código é escrito pelo grupo.
-
 ## Regras de cada dia
 
 1. Antes de começar: **Pull** no GitHub Desktop.
