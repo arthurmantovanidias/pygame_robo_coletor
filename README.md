@@ -76,13 +76,5 @@ No Windows, também dá para clicar duas vezes em `jogar.bat`.
 | Arthur Mantovani Dias | `main.py`, `jogo.py`, `sprites.py`, `texto.py`, `jogar.bat`, README |
 | Bernardo Kobayashi | `config.py`, `fase.py`, `partida.py` |
 | Gabriel Batista | `fases.py`, `recorde.py`, `sons.py`, `assets/sons/` |
-
-O código foi gerado com ajuda de IA (Claude); veja a seção abaixo.
-
-## Design (rascunhos)
-
-Fotos em [docs/rascunhos](docs/rascunhos).
-
 ## Uso de IA generativa
-
-O código do jogo foi gerado com o Claude (Anthropic) e revisado e enviado pelo grupo. Os commits feitos com a IA têm a linha `Co-Authored-By: Claude`. O registro completo está em [docs/uso_de_ia.md](docs/uso_de_ia.md).
+Os commits feitos com a IA têm a linha `Co-Authored-By: Claude`. O registro completo está em [docs/uso_de_ia.md](docs/uso_de_ia.md).
