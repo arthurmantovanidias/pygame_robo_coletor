@@ -10,7 +10,7 @@ Jogo de plataforma 2D em Python com PyGame. Projeto Final de Design de Software 
 
 ## Vídeo
 
-Link do vídeo: PREENCHER
+Vídeo do jogo funcionando: [docs/video/video_do_jogo.mp4](docs/video/video_do_jogo.mp4)
 
 ## Descrição
 
